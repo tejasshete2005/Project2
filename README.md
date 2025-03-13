@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Tejas Shete
+Created by Tejas Shete.
